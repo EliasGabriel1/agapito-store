@@ -1,0 +1,203 @@
+[
+    {
+        "productId": "10112",
+        "productName": "Mascarilla Nutritive Bomba",
+        "brand": "Yellow",
+        "brandId": 2000321,
+        "brandImageUrl": null,
+        "linkText": "mascarilla-nutritive-bomba",
+        "productReference": "7899884207512",
+        "productReferenceCode": null,
+        "categoryId": "162",
+        "productTitle": "Mascarilla Nutritive Bomba",
+        "metaTagDescription": "Mascarilla Nutritive Bomba\n\nUna verdadera bomba incluso para el cabello más seco. Su textura con cuerpo da vida en pocos minutos a una explosión de nutrición, suavidad y brillo. La fórmula con aceite de Argán, aceite de coco y Aleotrix nutre e hidrata a profundidad el cabello sin apelmazar.\n\nModo de uso:\nAplicar por los largos y las puntas después del Shampoo. Dejar actúar durante 3-5 minutos. Enjuagar minuciosamente. Para mejores resultados, terminar con Yellow Nutritive Leave-in Conditioner.",
+        "releaseDate": "2022-06-07T00:00:00Z",
+        "clusterHighlights": {
+            "1243": "MADRES TOTAL",
+            "1278": "Kerastase Navidad"
+        },
+        "productClusters": {
+            "139": "Todos los Productos",
+            "1243": "MADRES TOTAL",
+            "1278": "Kerastase Navidad",
+            "1585": "Capilares",
+            "1592": "Beauty Week Capilares",
+            "1594": "beautyweek",
+            "1621": "messirve cyber"
+        },
+        "searchableClusters": {
+            "1243": "MADRES TOTAL",
+            "1278": "Kerastase Navidad"
+        },
+        "categories": [
+            "/Capilares/Haircare/Tratamiento/",
+            "/Capilares/Haircare/",
+            "/Capilares/"
+        ],
+        "categoriesIds": [
+            "/142/145/162/",
+            "/142/145/",
+            "/142/"
+        ],
+        "link": "https://beauty24.vtexcommercestable.com.br/mascarilla-nutritive-bomba/p",
+        "description": "Mascarilla Nutritive Bomba\n\nUna verdadera bomba incluso para el cabello más seco. Su textura con cuerpo da vida en pocos minutos a una explosión de nutrición, suavidad y brillo. La fórmula con aceite de Argán, aceite de coco y Aleotrix nutre e hidrata a profundidad el cabello sin apelmazar.\n\nModo de uso:\nAplicar por los largos y las puntas después del Shampoo. Dejar actúar durante 3-5 minutos. Enjuagar minuciosamente. Para mejores resultados, terminar con Yellow Nutritive Leave-in Conditioner.",
+        "items": [
+            {
+                "itemId": "12836",
+                "name": "500 Ml",
+                "nameComplete": "Mascarilla Nutritive Bomba 500 Ml",
+                "complementName": "",
+                "ean": "7899884207512",
+                "referenceId": [
+                    {
+                        "Key": "RefId",
+                        "Value": "PF018314"
+                    }
+                ],
+                "measurementUnit": "un",
+                "unitMultiplier": 1.0000,
+                "modalType": null,
+                "isKit": false,
+                "images": [
+                    {
+                        "imageId": "178627",
+                        "imageLabel": "",
+                        "imageTag": "<img src=\"~/arquivos/ids/178627-#width#-#height#/PF018314.png?v=637902137141800000\" width=\"#width#\" height=\"#height#\" alt=\"PF018314\" id=\"\" />",
+                        "imageUrl": "https://beautysas.vteximg.com.br/arquivos/ids/178627/PF018314.png?v=637902137141800000",
+                        "imageText": "PF018314",
+                        "imageLastModified": "2022-06-07T15:48:34.1800000Z"
+                    }
+                ],
+                "Capilares": [
+                    "500 ml"
+                ],
+                "variations": [
+                    "Capilares"
+                ],
+                "sellers": [
+                    {
+                        "sellerId": "1",
+                        "sellerName": "beauty24",
+                        "addToCartLink": "https://beauty24.vtexcommercestable.com.br/checkout/cart/add?sku=12836&qty=1&seller=1&sc=1&price=520200&cv=698189BAA31846978AA75011DC76B5D3_&sc=1",
+                        "sellerDefault": true,
+                        "commertialOffer": {
+                            "DeliverySlaSamplesPerRegion": {
+                                "0": {
+                                    "DeliverySlaPerTypes": [],
+                                    "Region": null
+                                }
+                            },
+                            "Installments": [
+                                {
+                                    "Value": 5202.0,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 5202.0,
+                                    "NumberOfInstallments": 1,
+                                    "PaymentSystemName": "MercadoPagoPro",
+                                    "PaymentSystemGroupName": "MercadoPagoProPaymentGroup",
+                                    "Name": "MercadoPagoPro à vista"
+                                }
+                            ],
+                            "DiscountHighLight": [
+                                {
+                                    "<Name>k__BackingField": "Dto 20% -CON"
+                                }
+                            ],
+                            "GiftSkuIds": [],
+                            "Teasers": [],
+                            "BuyTogether": [],
+                            "ItemMetadataAttachment": [],
+                            "Price": 5202.0,
+                            "ListPrice": 6503.0,
+                            "PriceWithoutDiscount": 6503.0,
+                            "RewardValue": 0.0,
+                            "PriceValidUntil": "2023-11-26T17:53:02Z",
+                            "AvailableQuantity": 10,
+                            "IsAvailable": true,
+                            "Tax": 0.0,
+                            "DeliverySlaSamples": [
+                                {
+                                    "DeliverySlaPerTypes": [],
+                                    "Region": null
+                                }
+                            ],
+                            "GetInfoErrorMessage": null,
+                            "CacheVersionUsedToCallCheckout": "698189BAA31846978AA75011DC76B5D3_",
+                            "PaymentOptions": {
+                                "installmentOptions": [
+                                    {
+                                        "paymentSystem": "127",
+                                        "bin": null,
+                                        "paymentName": "MercadoPagoPro",
+                                        "paymentGroupName": "MercadoPagoProPaymentGroup",
+                                        "value": 520200,
+                                        "installments": [
+                                            {
+                                                "count": 1,
+                                                "hasInterestRate": false,
+                                                "interestRate": 0,
+                                                "value": 520200,
+                                                "total": 520200,
+                                                "sellerMerchantInstallments": [
+                                                    {
+                                                        "id": "BEAUTY24",
+                                                        "count": 1,
+                                                        "hasInterestRate": false,
+                                                        "interestRate": 0,
+                                                        "value": 520200,
+                                                        "total": 520200
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "paymentSystems": [
+                                    {
+                                        "id": 127,
+                                        "name": "MercadoPagoPro",
+                                        "groupName": "MercadoPagoProPaymentGroup",
+                                        "validator": null,
+                                        "stringId": "127",
+                                        "template": "MercadoPagoProPaymentGroup-template",
+                                        "requiresDocument": false,
+                                        "isCustom": false,
+                                        "description": null,
+                                        "requiresAuthentication": false,
+                                        "dueDate": "2022-12-03T17:29:22.7855557Z",
+                                        "availablePayments": null
+                                    }
+                                ],
+                                "payments": [],
+                                "giftCards": [],
+                                "giftCardMessages": [],
+                                "availableAccounts": [],
+                                "availableTokens": []
+                            }
+                        }
+                    }
+                ],
+                "Videos": [],
+                "estimatedDateArrival": null
+            }
+        ],
+        "skuSpecifications": [
+            {
+                "field": {
+                    "id": 63,
+                    "name": "Capilares",
+                    "isActive": true,
+                    "position": 1,
+                    "type": "Combo"
+                },
+                "values": [
+                    {
+                        "id": "2191",
+                        "name": "500 ml",
+                        "position": 1
+                    }
+                ]
+            }
+        ]
+    }
+]
