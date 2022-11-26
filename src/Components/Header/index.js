@@ -1,9 +1,9 @@
-function Index() {
-    // fetch("./api/Menu.json", {
-    //     headers: {
-    //         Accept: "application/json"
-    //     }
-    // }).then(res => res.json()).then(res => console.log(res))
+function index() {
+    fetch("./api/Menu.json", {
+        headers: {
+            Accept: "application/json"
+        }
+    }).then(res => res.json()).then(res => console.log(res))
     return (
         <div>
             <h1>
@@ -13,4 +13,4 @@ function Index() {
     );
 }
 
-export default Index;
+export default index;
