@@ -1,4 +1,4 @@
-function Index() {
+function index() {
     // fetch("./api/Menu.json", {
     //     headers: {
     //         Accept: "application/json"
@@ -13,4 +13,4 @@ function Index() {
     );
 }
 
-export default Index;
+export default index;

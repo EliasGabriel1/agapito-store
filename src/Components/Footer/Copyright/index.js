@@ -1,4 +1,4 @@
-function Index() {
+function index() {
     return (
       <div>
         <p>Copyright © 2022 Elias Gabriel | Dev Front End</p>
@@ -6,4 +6,4 @@ function Index() {
     );
   }
   
-  export default Index;
+  export default index;

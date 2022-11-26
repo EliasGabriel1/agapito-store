@@ -1,6 +1,6 @@
 import Copy from "./Copyright"
 
-function Index() {
+function index() {
   return (
     <div>
       <Copy/>
@@ -8,4 +8,4 @@ function Index() {
   );
 }
 
-export default Index;
+export default index;
