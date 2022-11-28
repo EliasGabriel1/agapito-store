@@ -1,0 +1,127 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+}
+
+::-webkit-scrollbar-track {
+    /* background: #333; */
+    background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+    /* background: #2e9dd8; */
+    background: transparent;
+}
+
+.container {
+    max-width: 1280px;
+    margin: 0 auto;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.categoria>ul {
+    display: flex;
+}
+
+.mobile .categoria>ul {
+    flex-direction: column;
+}
+
+.mobile .categoria>ul>li {
+    margin-bottom: 50px;
+}
+
+.mobile .categoria>ul>li>.subcategoria {
+    margin-top: 15px;
+}
+
+.is-hidden {
+    display: none;
+}
+
+.justify-center{
+    display: flex;
+    justify-content: center;
+}
+
+.desktop .subcategoria {
+    display: none;
+}
+
+.desktop .categoria>ul>li:hover .subcategoria {
+    display: block;
+}
+
+@media screen and (max-width: 1280px) {
+    body {
+        padding: 0 16px;
+    }
+}
+
+.mobile .menu-close {
+    display: none;
+}
+
+.subcategoria-mobile.subcategoria-open .subcategoria {
+    display: block;
+}
+
+.subcategoria-mobile .subcategoria {
+    display: none;
+}
+
+.subcategoria-mobile .name-categoria::after {
+    content: "";
+}
+
+body {
+    position: relative;
+}
+
+.mobile {
+    position: sticky;
+    top: 0;
+    width: 100%;
+}
+
+.mobile.fixed {
+    background-color: white;
+    position: fixed;
+}
+
+.mobile .menu-open {
+    position: relative;
+    height: 90vh;
+    overflow: auto;
+    background-color: white;
+    animation-duration: 500ms;
+    animation-name: slidein;
+}
+
+@keyframes slidein {
+    from {
+        position: absolute;
+        right: 100%;
+        width: 100%;
+    }
+
+    to {
+        position: absolute;
+        right: 0%;
+        width: 100%;
+    }
+}

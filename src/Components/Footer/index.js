@@ -2,7 +2,7 @@ import Copy from "./Copyright"
 
 function index() {
   return (
-    <div>
+    <div className="container">
       <Copy/>
     </div>
   );
