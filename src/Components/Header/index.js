@@ -1,6 +1,8 @@
 import MenuContent from "./Menu";
 import { useState, useEffect } from "react";
 import Loading from "../Loading";
+import Logo from "../Logo";
+import Researcher from "./Menu/Researcher";
 
 function Menu() {
     const [data, setData] = useState(null);
@@ -29,9 +31,15 @@ function Menu() {
     console.log(error)
     if (!error) {
         return (
-            <>
+            <header>
+                {
+                    <div className="container head">
+                        <Logo/>
+                        <Researcher/>
+                    </div >
+                    }
                 {!loading === true ? <MenuContent api={data} /> : <Loading type="spinningBubbles" color="black" />}
-            </>
+            </header>
         );
     }
     return <></>

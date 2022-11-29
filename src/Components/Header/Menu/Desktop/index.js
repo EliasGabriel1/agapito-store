@@ -1,3 +1,4 @@
+import Button from "../../../Button";
 import Categoria from "../Categoria";
 import Subcategoria from "../Subcategoria";
 
@@ -12,7 +13,7 @@ function Menu1(props) {
                             api.map((item, index) => {
                                 return (
                                     <li key={index}>
-                                        <Categoria content={item} />
+                                        <Categoria content={item} nolink={true}/>
                                         <div className="subcategoria">
                                             <Subcategoria content={item.children} />
                                         </div>
@@ -22,6 +23,7 @@ function Menu1(props) {
                         }
                     </ul>
                 </div>
+                <Button text="promoção" class="promocao"/>
             </div>
         </div>
     );
