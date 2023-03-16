@@ -548,7 +548,7 @@ body {
     top: 35px;
     background: white;
     width: 250px;
-    height: 350px;
+    height: 380px;
     z-index: 2;
     padding: 15px;
     box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
@@ -692,7 +692,6 @@ h5.encerrar-compra.cursor-pointer {
     color: #000000;
 }
 
-
 .ProductsDescript .ListPrice {
     font-family: 'Montserrat';
     font-style: italic;
@@ -701,6 +700,13 @@ h5.encerrar-compra.cursor-pointer {
     line-height: 18px;
     text-decoration-line: line-through;
     color: #8A8A8A;
+}
+
+.encerrar-compra-checkout{
+    background-color: #000000;
+    color: white;
+    width: 200px;
+    height: 36px;
 }
 
 @keyframes slidein {

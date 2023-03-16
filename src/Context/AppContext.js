@@ -25,6 +25,10 @@ function AppProvider(props) {
         setCart((prevCart) => prevCart.filter((item) => item[0].productId !== itemId));
     };
 
+    const clearCart = () => {
+        setCart([]);
+    };
+
     const login = (user) => {
         setState((prevState) => ({ ...prevState, user }));
     };
@@ -35,7 +39,7 @@ function AppProvider(props) {
 
     return (
         <AppContext.Provider
-            value={{ state, addItemToCart, removeItemFromCart, login, logout, cart, setCart,setProduct,IrAoItem, Product,NovoItem }}
+            value={{ state, addItemToCart, removeItemFromCart, login, logout, cart, setCart,setProduct,IrAoItem, Product,NovoItem,clearCart }}
         >
             {props.children}
         </AppContext.Provider>
