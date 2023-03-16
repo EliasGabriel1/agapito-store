@@ -1,11 +1,13 @@
+import React from "react";
 
+function Button({ onclick, class: className = "", text }) {
+  const handleClick = onclick ? onclick : () => {};
 
-function Button(props) {
-    return (
-        <button className={props.class?props.class:""}>
-            {props.text}     
-        </button>
-    )
+  return (
+    <button onClick={handleClick} className={className}>
+      {text}
+    </button>
+  );
 }
 
-export default Button
+export default Button;

@@ -1,6 +1,6 @@
 function index() {
     return (
-      <div>
+      <div className="copy">
         <p>Copyright © 2022 Elias Gabriel | Dev Front End</p>
       </div>
     );

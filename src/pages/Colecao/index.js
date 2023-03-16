@@ -11,7 +11,7 @@ function Buscar() {
   const [error, setError] = useState(null);
 
   useEffect(() => {
-      fetch("./api/Category.json", {
+    fetch("./api/Colecao.json", {
           headers: {
               Accept: "application/json"
           }
@@ -30,8 +30,6 @@ function Buscar() {
       })
 
   }, [])
-
-  console.log("raiz b",data)
 
   console.log(error)
 
