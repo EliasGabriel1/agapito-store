@@ -4,6 +4,7 @@ import Header from "../../Components/Header";
 import Loading from "../../Components/Loading";
 import Vitrine from "../../Components/Vitrine"
 import Description from "../../Components/Product/Description"
+import Footer from "../../Components/Footer";
 
 function ProductPage(props) {
   const [data, setData] = useState(null);
@@ -17,7 +18,6 @@ function ProductPage(props) {
   const [errorvitrineDois, setErrorvitrineDois] = useState(null);
   const { addItemToCart } = useContext(AppContext);
   const { Product } = useContext(AppContext);
-  console.log("tamo na pagina de produto ja po", Product)
 
   useEffect(() => {
     fetch("./api/Category.json", {
@@ -106,8 +106,8 @@ function ProductPage(props) {
                 <div className="ProductsDescript">
                   <p>{Product[0][0].productBrand}</p>
                   <h1>{Product[0][0].productName}</h1>
-                  <p>{Product[0][0].Price}</p>
-                  <p>{Product[0][0].ListPrice}</p>
+                  <p className="Price">{Product[0][0].Price}</p>
+                  <p className="ListPrice">{Product[0][0].ListPrice}</p>
                   <button onClick={() => addItemToCart(productItem)}>Adicionar ao carrinho</button>
                 </div>
               </div>
@@ -126,7 +126,7 @@ function ProductPage(props) {
         {!loadingvitrineDois === true ?
           <Vitrine data={vitrineDois} />
           : <Loading type="spinningBubbles" color="black" text="UNA PRENDA PARA CADA OCASIÓN" />}
-
+        <Footer />
       </>
     )
   }

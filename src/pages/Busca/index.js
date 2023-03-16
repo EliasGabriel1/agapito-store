@@ -31,8 +31,6 @@ function Buscar() {
 
   }, [])
 
-  console.log("raiz b",data)
-
   console.log(error)
 
   if (!error) {

@@ -22,7 +22,7 @@ function AppProvider(props) {
     };
 
     const removeItemFromCart = (itemId) => {
-        setCart((prevCart) => prevCart.filter((item) => item.id !== itemId));
+        setCart((prevCart) => prevCart.filter((item) => item[0].productId !== itemId));
     };
 
     const login = (user) => {

@@ -31,7 +31,7 @@ function Home() {
       }
       throw response;
     }).then(data => {
-      setData(data.items);
+      setData(data);
     }).catch(error => {
       console.error("Error fetching data: ", error);
       setError(error);
@@ -75,8 +75,6 @@ function Home() {
       setLoadingvitrineDois(false)
     })
   }, [])
-
-  console.log(data)
   
   return (
     <>

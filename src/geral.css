@@ -4,6 +4,18 @@
     box-sizing: border-box;
 }
 
+input:focus-visible {
+    outline-offset: none;
+}
+
+input[type="text" i] {
+    padding: 0;
+}
+
+:focus-visible {
+    outline: none;
+}
+
 ::-webkit-scrollbar {
     width: 4px;
     height: 10px;
@@ -457,7 +469,12 @@ body {
 }
 
 .ProductsImage {
-    max-width: 35%;
+    max-width: 29%;
+}
+
+.ProductsDescript>h1 {
+    max-width: 435px;
+    width: 100%;
 }
 
 .checkbox {
@@ -531,11 +548,21 @@ body {
     top: 35px;
     background: white;
     width: 250px;
-    height: 250px;
+    height: 350px;
     z-index: 2;
     padding: 15px;
     box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
     border-radius: 3px;
+}
+
+.mini-cart ul {
+    max-height: 325px;
+    overflow: auto;
+}
+
+.checkout {
+    display: flex;
+    flex-direction: column;
 }
 
 .container-footerLinks {
@@ -609,13 +636,71 @@ header.sticky>.container.menu {
 }
 
 
-.searchBox{
+.searchBox {
     position: relative;
 }
 
-.answer-search{
+.answer-search {
     position: absolute;
     z-index: 1000;
+}
+
+.searchBox>.group-input {
+    display: flex;
+    position: relative;
+}
+
+.searchBox>.group-input>svg {
+    position: absolute;
+    right: 0;
+}
+
+.searchBox>.group-input>input {
+    width: 300px;
+    height: 36px;
+    border: 1px solid #E5E5E5;
+    border-radius: 80px;
+    padding: 0 5px 0 20px;
+}
+
+.checkout>ul {
+    display: flex;
+    max-width: 400px;
+    gap: 10px;
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
+
+h5.encerrar-compra.cursor-pointer {
+    text-align: center;
+    height: 36px;
+    background: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.ProductsDescript .price {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 22px;
+    color: #000000;
+}
+
+
+.ProductsDescript .ListPrice {
+    font-family: 'Montserrat';
+    font-style: italic;
+    font-weight: 100;
+    font-size: 14px;
+    line-height: 18px;
+    text-decoration-line: line-through;
+    color: #8A8A8A;
 }
 
 @keyframes slidein {
@@ -741,7 +826,7 @@ header.sticky>.container.menu {
         align-items: center;
     }
 
-    .container-cards{
+    .container-cards {
         padding: 0 16px;
     }
 
@@ -806,29 +891,32 @@ header.sticky>.container.menu {
         flex-direction: column;
         align-items: flex-start;
     }
-    .d-grid{
+
+    .d-grid {
         display: grid;
         grid-template-columns: 27% 73%;
     }
 
-    .filter{
+    .filter {
         display: flex;
         flex-direction: column;
         gap: 10px;
     }
 
     .filter>div>label,
-    .filter>div{
+    .filter>div {
         cursor: pointer;
     }
 
     .answer-search {
         position: absolute;
-        right: 36%;
+        right: -3%;
         z-index: 1000;
         background-color: white;
         width: 350px;
         padding: 20px;
+        max-height: 500px;
+        overflow: auto;
     }
 }
 

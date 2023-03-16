@@ -26,6 +26,7 @@ function ProductCard(props) {
 
     const productItem =[
         {
+            "productId": item.productId,
             "productName": item.productName,
             "productBrand": item.brand,
             "productDescription": item.description,
