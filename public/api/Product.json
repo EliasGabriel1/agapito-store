@@ -21,8 +21,8 @@
             "1243": "MADRES TOTAL",
             "1278": "Kerastase Navidad",
             "1585": "Capilares",
-            "1592": "Beauty Week Capilares",
-            "1594": "beautyweek",
+            "1592": " Week Capilares",
+            "1594": "week",
             "1621": "messirve cyber"
         },
         "searchableClusters": {
@@ -39,7 +39,7 @@
             "/142/145/",
             "/142/"
         ],
-        "link": "https://beauty24.vtexcommercestable.com.br/mascarilla-nutritive-bomba/p",
+        "link": "/mascarilla-nutritive-bomba/p",
         "description": "Mascarilla Nutritive Bomba\n\nUna verdadera bomba incluso para el cabello más seco. Su textura con cuerpo da vida en pocos minutos a una explosión de nutrición, suavidad y brillo. La fórmula con aceite de Argán, aceite de coco y Aleotrix nutre e hidrata a profundidad el cabello sin apelmazar.\n\nModo de uso:\nAplicar por los largos y las puntas después del Shampoo. Dejar actúar durante 3-5 minutos. Enjuagar minuciosamente. Para mejores resultados, terminar con Yellow Nutritive Leave-in Conditioner.",
         "items": [
             {
@@ -62,8 +62,7 @@
                     {
                         "imageId": "178627",
                         "imageLabel": "",
-                        "imageTag": "<img src=\"~/arquivos/ids/178627-#width#-#height#/PF018314.png?v=637902137141800000\" width=\"#width#\" height=\"#height#\" alt=\"PF018314\" id=\"\" />",
-                        "imageUrl": "https://beautysas.vteximg.com.br/arquivos/ids/178627/PF018314.png?v=637902137141800000",
+                        "imageUrl": "https://i.postimg.cc/y6Q4PJnJ/rimell.png",
                         "imageText": "PF018314",
                         "imageLastModified": "2022-06-07T15:48:34.1800000Z"
                     }
@@ -77,8 +76,8 @@
                 "sellers": [
                     {
                         "sellerId": "1",
-                        "sellerName": "beauty24",
-                        "addToCartLink": "https://beauty24.vtexcommercestable.com.br/checkout/cart/add?sku=12836&qty=1&seller=1&sc=1&price=520200&cv=698189BAA31846978AA75011DC76B5D3_&sc=1",
+                        "sellerName": "EliasGabe1",
+                        "addToCartLink": "/checkout/cart/add?sku=12836&qty=1&seller=1&sc=1&price=520200&cv=698189BAA31846978AA75011DC76B5D3_&sc=1",
                         "sellerDefault": true,
                         "commertialOffer": {
                             "DeliverySlaSamplesPerRegion": {
@@ -140,7 +139,7 @@
                                                 "total": 520200,
                                                 "sellerMerchantInstallments": [
                                                     {
-                                                        "id": "BEAUTY24",
+                                                        "id": "EliasGabe1",
                                                         "count": 1,
                                                         "hasInterestRate": false,
                                                         "interestRate": 0,

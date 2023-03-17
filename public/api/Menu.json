@@ -3,13 +3,13 @@
         "id": 1,
         "name": "Bebes y Maternidad",
         "hasChildren": true,
-        "url": "https://digitalfarma.vtexcommercestable.com.br/bebes-y-maternidad",
+        "url": "/bebes-y-maternidad",
         "children": [
             {
                 "id": 5,
                 "name": "Alimentacion",
                 "hasChildren": false,
-                "url": "https://digitalfarma.vtexcommercestable.com.br/bebes-y-maternidad/alimentacion",
+                "url": "/bebes-y-maternidad/alimentacion",
                 "children": [],
                 "Title": "Alimentacion",
                 "MetaTagDescription": "Alimentacion"
@@ -18,7 +18,7 @@
                 "id": 8,
                 "name": "Chupetes y Mamaderas",
                 "hasChildren": false,
-                "url": "https://digitalfarma.vtexcommercestable.com.br/bebes-y-maternidad/chupetes-y-mamaderas",
+                "url": "/bebes-y-maternidad/chupetes-y-mamaderas",
                 "children": [],
                 "Title": "Chupetes y Mamaderas",
                 "MetaTagDescription": "Chupetes y Mamaderas"
@@ -27,7 +27,7 @@
                 "id": 9,
                 "name": "Higiene y Cuidado del Bebé",
                 "hasChildren": false,
-                "url": "https://digitalfarma.vtexcommercestable.com.br/bebes-y-maternidad/higiene-y-cuidado-del-bebe",
+                "url": "/bebes-y-maternidad/higiene-y-cuidado-del-bebe",
                 "children": [],
                 "Title": "Higiene y Cuidado del Bebé",
                 "MetaTagDescription": "Higiene y Cuidado del Bebé"
@@ -36,7 +36,7 @@
                 "id": 10,
                 "name": "Accesorios",
                 "hasChildren": false,
-                "url": "https://digitalfarma.vtexcommercestable.com.br/bebes-y-maternidad/accesorios",
+                "url": "/bebes-y-maternidad/accesorios",
                 "children": [],
                 "Title": "Accesorios",
                 "MetaTagDescription": "Accesorios"
@@ -45,7 +45,7 @@
                 "id": 11,
                 "name": "Cuidado Maternal Y Lactancia",
                 "hasChildren": false,
-                "url": "https://digitalfarma.vtexcommercestable.com.br/bebes-y-maternidad/cuidado-maternal-y-lactancia",
+                "url": "/bebes-y-maternidad/cuidado-maternal-y-lactancia",
                 "children": [],
                 "Title": "Cuidado Maternal Y Lactancia",
                 "MetaTagDescription": "Cuidado Maternal Y Lactancia"
@@ -54,7 +54,7 @@
                 "id": 18439,
                 "name": "Chupetes y Mamaderas",
                 "hasChildren": false,
-                "url": "https://digitalfarma.vtexcommercestable.com.br/bebes-y-maternidad/chupetes-y-mamaderas",
+                "url": "/bebes-y-maternidad/chupetes-y-mamaderas",
                 "children": [],
                 "Title": "Chupetes y Mamaderas",
                 "MetaTagDescription": ""
@@ -63,7 +63,7 @@
                 "id": 18440,
                 "name": "Cuidado Maternal Y Lactancia",
                 "hasChildren": false,
-                "url": "https://digitalfarma.vtexcommercestable.com.br/bebes-y-maternidad/cuidado-maternal-y-lactancia",
+                "url": "/bebes-y-maternidad/cuidado-maternal-y-lactancia",
                 "children": [],
                 "Title": "Cuidado Maternal Y Lactancia",
                 "MetaTagDescription": ""
@@ -76,13 +76,13 @@
         "id": 2,
         "name": "Nutricion y Deporte",
         "hasChildren": true,
-        "url": "https://digitalfarma.vtexcommercestable.com.br/nutricion-y-deporte",
+        "url": "/nutricion-y-deporte",
         "children": [
             {
                 "id": 4,
                 "name": "Suplemento Deportivo",
                 "hasChildren": false,
-                "url": "https://digitalfarma.vtexcommercestable.com.br/nutricion-y-deporte/suplemento-deportivo",
+                "url": "/nutricion-y-deporte/suplemento-deportivo",
                 "children": [],
                 "Title": "Suplemento Deportivo",
                 "MetaTagDescription": "Suplemento Deportivo"
@@ -91,7 +91,7 @@
                 "id": 6,
                 "name": "Suplemento Vitamínico",
                 "hasChildren": false,
-                "url": "https://digitalfarma.vtexcommercestable.com.br/nutricion-y-deporte/suplemento-vitaminico",
+                "url": "/nutricion-y-deporte/suplemento-vitaminico",
                 "children": [],
                 "Title": "Suplemento Vitamínico",
                 "MetaTagDescription": "Suplemento Vitamínico"
@@ -100,7 +100,7 @@
                 "id": 7,
                 "name": "Suplementos Dietarios",
                 "hasChildren": false,
-                "url": "https://digitalfarma.vtexcommercestable.com.br/nutricion-y-deporte/suplementos-dietarios",
+                "url": "/nutricion-y-deporte/suplementos-dietarios",
                 "children": [],
                 "Title": "Suplementos Dietarios",
                 "MetaTagDescription": "Suplementos Dietarios"
@@ -113,13 +113,13 @@
         "id": 3,
         "name": "Maquillaje",
         "hasChildren": true,
-        "url": "https://digitalfarma.vtexcommercestable.com.br/maquillaje",
+        "url": "/maquillaje",
         "children": [
             {
                 "id": 17,
                 "name": "Ojos",
                 "hasChildren": false,
-                "url": "https://digitalfarma.vtexcommercestable.com.br/maquillaje/ojos",
+                "url": "/maquillaje/ojos",
                 "children": [],
                 "Title": "Ojos",
                 "MetaTagDescription": "Ojos"
@@ -128,7 +128,7 @@
                 "id": 18,
                 "name": "Labios",
                 "hasChildren": false,
-                "url": "https://digitalfarma.vtexcommercestable.com.br/maquillaje/labios",
+                "url": "/maquillaje/labios",
                 "children": [],
                 "Title": "Labios",
                 "MetaTagDescription": "Labios"
@@ -137,7 +137,7 @@
                 "id": 19,
                 "name": "Rostro",
                 "hasChildren": false,
-                "url": "https://digitalfarma.vtexcommercestable.com.br/maquillaje/rostro",
+                "url": "/maquillaje/rostro",
                 "children": [],
                 "Title": "Rostro",
                 "MetaTagDescription": "Rostro"
@@ -146,7 +146,7 @@
                 "id": 20,
                 "name": "Uñas",
                 "hasChildren": false,
-                "url": "https://digitalfarma.vtexcommercestable.com.br/maquillaje/unas",
+                "url": "/maquillaje/unas",
                 "children": [],
                 "Title": "Uñas",
                 "MetaTagDescription": "Uñas"
@@ -159,13 +159,13 @@
         "id": 12,
         "name": "Dermocosmetica",
         "hasChildren": true,
-        "url": "https://digitalfarma.vtexcommercestable.com.br/dermocosmetica",
+        "url": "/dermocosmetica",
         "children": [
             {
                 "id": 13,
                 "name": "Capilares",
                 "hasChildren": false,
-                "url": "https://digitalfarma.vtexcommercestable.com.br/dermocosmetica/capilares",
+                "url": "/dermocosmetica/capilares",
                 "children": [],
                 "Title": "Capilares",
                 "MetaTagDescription": "Capilares"
@@ -174,7 +174,7 @@
                 "id": 14,
                 "name": "Corporal",
                 "hasChildren": false,
-                "url": "https://digitalfarma.vtexcommercestable.com.br/dermocosmetica/corporal",
+                "url": "/dermocosmetica/corporal",
                 "children": [],
                 "Title": "Corporal",
                 "MetaTagDescription": "Corporal"
@@ -183,13 +183,13 @@
                 "id": 15,
                 "name": "Facial",
                 "hasChildren": true,
-                "url": "https://digitalfarma.vtexcommercestable.com.br/dermocosmetica/facial",
+                "url": "/dermocosmetica/facial",
                 "children": [
                     {
                         "id": 90,
                         "name": "Antiage",
                         "hasChildren": false,
-                        "url": "https://digitalfarma.vtexcommercestable.com.br/dermocosmetica/facial/antiage",
+                        "url": "/dermocosmetica/facial/antiage",
                         "children": [],
                         "Title": "Antiage",
                         "MetaTagDescription": "Antiage"
@@ -198,7 +198,7 @@
                         "id": 91,
                         "name": "Antiacne",
                         "hasChildren": false,
-                        "url": "https://digitalfarma.vtexcommercestable.com.br/dermocosmetica/facial/antiacne",
+                        "url": "/dermocosmetica/facial/antiacne",
                         "children": [],
                         "Title": "Antiacne",
                         "MetaTagDescription": "Antiacne"
@@ -207,7 +207,7 @@
                         "id": 92,
                         "name": "Hidratante",
                         "hasChildren": false,
-                        "url": "https://digitalfarma.vtexcommercestable.com.br/dermocosmetica/facial/hidratante",
+                        "url": "/dermocosmetica/facial/hidratante",
                         "children": [],
                         "Title": "Hidratante",
                         "MetaTagDescription": "Hidratante"
@@ -216,7 +216,7 @@
                         "id": 93,
                         "name": "Despigmentante",
                         "hasChildren": false,
-                        "url": "https://digitalfarma.vtexcommercestable.com.br/dermocosmetica/facial/despigmentante",
+                        "url": "/dermocosmetica/facial/despigmentante",
                         "children": [],
                         "Title": "Despigmentante",
                         "MetaTagDescription": "Despigmentante"
@@ -225,7 +225,7 @@
                         "id": 94,
                         "name": "Limpieza",
                         "hasChildren": false,
-                        "url": "https://digitalfarma.vtexcommercestable.com.br/dermocosmetica/facial/limpieza",
+                        "url": "/dermocosmetica/facial/limpieza",
                         "children": [],
                         "Title": "Limpieza",
                         "MetaTagDescription": "Limpieza"
@@ -234,7 +234,7 @@
                         "id": 70674,
                         "name": "Antiacne",
                         "hasChildren": false,
-                        "url": "https://digitalfarma.vtexcommercestable.com.br/dermocosmetica/facial/antiacne",
+                        "url": "/dermocosmetica/facial/antiacne",
                         "children": [],
                         "Title": "Antiacne",
                         "MetaTagDescription": ""
@@ -247,13 +247,13 @@
                 "id": 16,
                 "name": "Solares",
                 "hasChildren": true,
-                "url": "https://digitalfarma.vtexcommercestable.com.br/dermocosmetica/solares",
+                "url": "/dermocosmetica/solares",
                 "children": [
                     {
                         "id": 95,
                         "name": "Facial",
                         "hasChildren": false,
-                        "url": "https://digitalfarma.vtexcommercestable.com.br/dermocosmetica/solares/facial",
+                        "url": "/dermocosmetica/solares/facial",
                         "children": [],
                         "Title": "Facial",
                         "MetaTagDescription": "Facial"
@@ -262,7 +262,7 @@
                         "id": 96,
                         "name": "Corporal",
                         "hasChildren": false,
-                        "url": "https://digitalfarma.vtexcommercestable.com.br/dermocosmetica/solares/corporal",
+                        "url": "/dermocosmetica/solares/corporal",
                         "children": [],
                         "Title": "Corporal",
                         "MetaTagDescription": "Corporal"
@@ -279,13 +279,13 @@
         "id": 21,
         "name": "Perfumes y Fragancias",
         "hasChildren": true,
-        "url": "https://digitalfarma.vtexcommercestable.com.br/perfumes-y-fragancias",
+        "url": "/perfumes-y-fragancias",
         "children": [
             {
                 "id": 22,
                 "name": "Hombres",
                 "hasChildren": false,
-                "url": "https://digitalfarma.vtexcommercestable.com.br/perfumes-y-fragancias/hombres",
+                "url": "/perfumes-y-fragancias/hombres",
                 "children": [],
                 "Title": "Hombres",
                 "MetaTagDescription": "Hombres"
@@ -294,7 +294,7 @@
                 "id": 23,
                 "name": "Mujeres",
                 "hasChildren": false,
-                "url": "https://digitalfarma.vtexcommercestable.com.br/perfumes-y-fragancias/mujeres",
+                "url": "/perfumes-y-fragancias/mujeres",
                 "children": [],
                 "Title": "Mujeres",
                 "MetaTagDescription": "Mujeres"
@@ -303,7 +303,7 @@
                 "id": 89,
                 "name": "Niños",
                 "hasChildren": false,
-                "url": "https://digitalfarma.vtexcommercestable.com.br/perfumes-y-fragancias/ninos",
+                "url": "/perfumes-y-fragancias/ninos",
                 "children": [],
                 "Title": "Niños",
                 "MetaTagDescription": "Niños"
@@ -316,19 +316,19 @@
         "id": 24,
         "name": "Cuidado Personal",
         "hasChildren": true,
-        "url": "https://digitalfarma.vtexcommercestable.com.br/cuidado-personal",
+        "url": "/cuidado-personal",
         "children": [
             {
                 "id": 26,
                 "name": "Cuidado del Cabello",
                 "hasChildren": true,
-                "url": "https://digitalfarma.vtexcommercestable.com.br/cuidado-personal/cuidado-del-cabello",
+                "url": "/cuidado-personal/cuidado-del-cabello",
                 "children": [
                     {
                         "id": 76,
                         "name": "Shampoo",
                         "hasChildren": false,
-                        "url": "https://digitalfarma.vtexcommercestable.com.br/cuidado-personal/cuidado-del-cabello/shampoo",
+                        "url": "/cuidado-personal/cuidado-del-cabello/shampoo",
                         "children": [],
                         "Title": "Shampoo",
                         "MetaTagDescription": "Shampoo"
@@ -337,7 +337,7 @@
                         "id": 77,
                         "name": "Acondicionador",
                         "hasChildren": false,
-                        "url": "https://digitalfarma.vtexcommercestable.com.br/cuidado-personal/cuidado-del-cabello/acondicionador",
+                        "url": "/cuidado-personal/cuidado-del-cabello/acondicionador",
                         "children": [],
                         "Title": "Acondicionador",
                         "MetaTagDescription": "Acondicionador"
@@ -346,7 +346,7 @@
                         "id": 78,
                         "name": "Tratamiento",
                         "hasChildren": false,
-                        "url": "https://digitalfarma.vtexcommercestable.com.br/cuidado-personal/cuidado-del-cabello/tratamiento",
+                        "url": "/cuidado-personal/cuidado-del-cabello/tratamiento",
                         "children": [],
                         "Title": "Tratamiento",
                         "MetaTagDescription": "Tratamiento"
@@ -355,7 +355,7 @@
                         "id": 79,
                         "name": "Coloración",
                         "hasChildren": false,
-                        "url": "https://digitalfarma.vtexcommercestable.com.br/cuidado-personal/cuidado-del-cabello/coloracion",
+                        "url": "/cuidado-personal/cuidado-del-cabello/coloracion",
                         "children": [],
                         "Title": "Coloración",
                         "MetaTagDescription": "Coloración"
@@ -364,7 +364,7 @@
                         "id": 80,
                         "name": "Fijadores",
                         "hasChildren": false,
-                        "url": "https://digitalfarma.vtexcommercestable.com.br/cuidado-personal/cuidado-del-cabello/fijadores",
+                        "url": "/cuidado-personal/cuidado-del-cabello/fijadores",
                         "children": [],
                         "Title": "Fijadores",
                         "MetaTagDescription": "Fijadores"
@@ -373,7 +373,7 @@
                         "id": 18441,
                         "name": "Fijadores",
                         "hasChildren": false,
-                        "url": "https://digitalfarma.vtexcommercestable.com.br/cuidado-personal/cuidado-del-cabello/fijadores",
+                        "url": "/cuidado-personal/cuidado-del-cabello/fijadores",
                         "children": [],
                         "Title": "Fijadores",
                         "MetaTagDescription": ""
@@ -382,7 +382,7 @@
                         "id": 70659,
                         "name": "Shampoo",
                         "hasChildren": false,
-                        "url": "https://digitalfarma.vtexcommercestable.com.br/cuidado-personal/cuidado-del-cabello/shampoo",
+                        "url": "/cuidado-personal/cuidado-del-cabello/shampoo",
                         "children": [],
                         "Title": "Shampoo",
                         "MetaTagDescription": ""
@@ -395,25 +395,25 @@
                 "id": 27,
                 "name": "Higiene Corporal",
                 "hasChildren": true,
-                "url": "https://digitalfarma.vtexcommercestable.com.br/cuidado-personal/higiene-corporal",
+                "url": "/cuidado-personal/higiene-corporal",
                 "children": [
                     {
                         "id": 29,
                         "name": "Hombre",
                         "hasChildren": true,
-                        "url": "https://digitalfarma.vtexcommercestable.com.br/cuidado-personal/higiene-corporal/hombre",
+                        "url": "/cuidado-personal/higiene-corporal/hombre",
                         "children": [
                             {
                                 "id": 35,
                                 "name": "Desodorantes",
                                 "hasChildren": true,
-                                "url": "https://digitalfarma.vtexcommercestable.com.br/cuidado-personal/higiene-corporal/hombre/desodorantes",
+                                "url": "/cuidado-personal/higiene-corporal/hombre/desodorantes",
                                 "children": [
                                     {
                                         "id": 83,
                                         "name": "Hombre",
                                         "hasChildren": false,
-                                        "url": "https://digitalfarma.vtexcommercestable.com.br/cuidado-personal/higiene-corporal/hombre/desodorantes/hombre",
+                                        "url": "/cuidado-personal/higiene-corporal/hombre/desodorantes/hombre",
                                         "children": [],
                                         "Title": "Hombre",
                                         "MetaTagDescription": "Hombre"
@@ -422,7 +422,7 @@
                                         "id": 84,
                                         "name": "Mujer",
                                         "hasChildren": false,
-                                        "url": "https://digitalfarma.vtexcommercestable.com.br/cuidado-personal/higiene-corporal/hombre/desodorantes/mujer",
+                                        "url": "/cuidado-personal/higiene-corporal/hombre/desodorantes/mujer",
                                         "children": [],
                                         "Title": "Mujer",
                                         "MetaTagDescription": "Mujer"
@@ -435,13 +435,13 @@
                                 "id": 36,
                                 "name": "Complemento de Afeitar",
                                 "hasChildren": true,
-                                "url": "https://digitalfarma.vtexcommercestable.com.br/cuidado-personal/higiene-corporal/hombre/complemento-de-afeitar",
+                                "url": "/cuidado-personal/higiene-corporal/hombre/complemento-de-afeitar",
                                 "children": [
                                     {
                                         "id": 81,
                                         "name": "Hombre",
                                         "hasChildren": false,
-                                        "url": "https://digitalfarma.vtexcommercestable.com.br/cuidado-personal/higiene-corporal/hombre/complemento-de-afeitar/hombre",
+                                        "url": "/cuidado-personal/higiene-corporal/hombre/complemento-de-afeitar/hombre",
                                         "children": [],
                                         "Title": "Hombre",
                                         "MetaTagDescription": "Hombre"
@@ -450,7 +450,7 @@
                                         "id": 82,
                                         "name": "Mujer",
                                         "hasChildren": false,
-                                        "url": "https://digitalfarma.vtexcommercestable.com.br/cuidado-personal/higiene-corporal/hombre/complemento-de-afeitar/mujer",
+                                        "url": "/cuidado-personal/higiene-corporal/hombre/complemento-de-afeitar/mujer",
                                         "children": [],
                                         "Title": "Mujer",
                                         "MetaTagDescription": "Mujer"
@@ -463,13 +463,13 @@
                                 "id": 37,
                                 "name": "Máquinas Descartables",
                                 "hasChildren": true,
-                                "url": "https://digitalfarma.vtexcommercestable.com.br/cuidado-personal/higiene-corporal/hombre/maquinas-descartables",
+                                "url": "/cuidado-personal/higiene-corporal/hombre/maquinas-descartables",
                                 "children": [
                                     {
                                         "id": 85,
                                         "name": "Hombre",
                                         "hasChildren": false,
-                                        "url": "https://digitalfarma.vtexcommercestable.com.br/cuidado-personal/higiene-corporal/hombre/maquinas-descartables/hombre",
+                                        "url": "/cuidado-personal/higiene-corporal/hombre/maquinas-descartables/hombre",
                                         "children": [],
                                         "Title": "Hombre",
                                         "MetaTagDescription": "Hombre"
@@ -478,7 +478,7 @@
                                         "id": 86,
                                         "name": "Mujer",
                                         "hasChildren": false,
-                                        "url": "https://digitalfarma.vtexcommercestable.com.br/cuidado-personal/higiene-corporal/hombre/maquinas-descartables/mujer",
+                                        "url": "/cuidado-personal/higiene-corporal/hombre/maquinas-descartables/mujer",
                                         "children": [],
                                         "Title": "Mujer",
                                         "MetaTagDescription": "Mujer"
@@ -495,13 +495,13 @@
                         "id": 30,
                         "name": "Mujer",
                         "hasChildren": true,
-                        "url": "https://digitalfarma.vtexcommercestable.com.br/cuidado-personal/higiene-corporal/mujer",
+                        "url": "/cuidado-personal/higiene-corporal/mujer",
                         "children": [
                             {
                                 "id": 31,
                                 "name": "Desodorantes",
                                 "hasChildren": false,
-                                "url": "https://digitalfarma.vtexcommercestable.com.br/cuidado-personal/higiene-corporal/mujer/desodorantes",
+                                "url": "/cuidado-personal/higiene-corporal/mujer/desodorantes",
                                 "children": [],
                                 "Title": "Desodorantes",
                                 "MetaTagDescription": "Desodorantes"
@@ -510,7 +510,7 @@
                                 "id": 32,
                                 "name": "Protectores Diarios",
                                 "hasChildren": false,
-                                "url": "https://digitalfarma.vtexcommercestable.com.br/cuidado-personal/higiene-corporal/mujer/protectores-diarios",
+                                "url": "/cuidado-personal/higiene-corporal/mujer/protectores-diarios",
                                 "children": [],
                                 "Title": "Protectores Diarios",
                                 "MetaTagDescription": "Protectores Diarios"
@@ -519,7 +519,7 @@
                                 "id": 33,
                                 "name": "Tampones",
                                 "hasChildren": false,
-                                "url": "https://digitalfarma.vtexcommercestable.com.br/cuidado-personal/higiene-corporal/mujer/tampones",
+                                "url": "/cuidado-personal/higiene-corporal/mujer/tampones",
                                 "children": [],
                                 "Title": "Tampones",
                                 "MetaTagDescription": "Tampones"
@@ -528,7 +528,7 @@
                                 "id": 34,
                                 "name": "Depilación",
                                 "hasChildren": false,
-                                "url": "https://digitalfarma.vtexcommercestable.com.br/cuidado-personal/higiene-corporal/mujer/depilacion",
+                                "url": "/cuidado-personal/higiene-corporal/mujer/depilacion",
                                 "children": [],
                                 "Title": "Depilación",
                                 "MetaTagDescription": "Depilación"
@@ -537,7 +537,7 @@
                                 "id": 49,
                                 "name": "Copas Menstruales",
                                 "hasChildren": false,
-                                "url": "https://digitalfarma.vtexcommercestable.com.br/cuidado-personal/higiene-corporal/mujer/copas-menstruales",
+                                "url": "/cuidado-personal/higiene-corporal/mujer/copas-menstruales",
                                 "children": [],
                                 "Title": "Copas Menstruales",
                                 "MetaTagDescription": "Copas Menstruales"
@@ -546,7 +546,7 @@
                                 "id": 55,
                                 "name": "Toallas con y sin alas",
                                 "hasChildren": false,
-                                "url": "https://digitalfarma.vtexcommercestable.com.br/cuidado-personal/higiene-corporal/mujer/toallas-con-y-sin-alas",
+                                "url": "/cuidado-personal/higiene-corporal/mujer/toallas-con-y-sin-alas",
                                 "children": [],
                                 "Title": "Toallas con y sin alas",
                                 "MetaTagDescription": "Toallas con y sin alas"
@@ -563,13 +563,13 @@
                 "id": 28,
                 "name": "Cuidado de la Piel",
                 "hasChildren": true,
-                "url": "https://digitalfarma.vtexcommercestable.com.br/cuidado-personal/cuidado-de-la-piel",
+                "url": "/cuidado-personal/cuidado-de-la-piel",
                 "children": [
                     {
                         "id": 53,
                         "name": "Corporal",
                         "hasChildren": false,
-                        "url": "https://digitalfarma.vtexcommercestable.com.br/cuidado-personal/cuidado-de-la-piel/corporal",
+                        "url": "/cuidado-personal/cuidado-de-la-piel/corporal",
                         "children": [],
                         "Title": "Corporal",
                         "MetaTagDescription": "Corporal"
@@ -578,7 +578,7 @@
                         "id": 54,
                         "name": "Facial",
                         "hasChildren": false,
-                        "url": "https://digitalfarma.vtexcommercestable.com.br/cuidado-personal/cuidado-de-la-piel/facial",
+                        "url": "/cuidado-personal/cuidado-de-la-piel/facial",
                         "children": [],
                         "Title": "Facial",
                         "MetaTagDescription": "Facial"
@@ -591,13 +591,13 @@
                 "id": 87,
                 "name": "Higiene femenina",
                 "hasChildren": true,
-                "url": "https://digitalfarma.vtexcommercestable.com.br/cuidado-personal/higiene-femenina",
+                "url": "/cuidado-personal/higiene-femenina",
                 "children": [
                     {
                         "id": 18476,
                         "name": "Depilación",
                         "hasChildren": false,
-                        "url": "https://digitalfarma.vtexcommercestable.com.br/cuidado-personal/higiene-femenina/depilacion",
+                        "url": "/cuidado-personal/higiene-femenina/depilacion",
                         "children": [],
                         "Title": "Depilación",
                         "MetaTagDescription": null
@@ -606,7 +606,7 @@
                         "id": 18478,
                         "name": "Protectores Diarios",
                         "hasChildren": false,
-                        "url": "https://digitalfarma.vtexcommercestable.com.br/cuidado-personal/higiene-femenina/protectores-diarios",
+                        "url": "/cuidado-personal/higiene-femenina/protectores-diarios",
                         "children": [],
                         "Title": "Protectores Diarios",
                         "MetaTagDescription": null
@@ -615,7 +615,7 @@
                         "id": 18479,
                         "name": "Tampones",
                         "hasChildren": false,
-                        "url": "https://digitalfarma.vtexcommercestable.com.br/cuidado-personal/higiene-femenina/tampones",
+                        "url": "/cuidado-personal/higiene-femenina/tampones",
                         "children": [],
                         "Title": "Tampones",
                         "MetaTagDescription": null
@@ -624,7 +624,7 @@
                         "id": 70660,
                         "name": "Toallas con y sin alas",
                         "hasChildren": false,
-                        "url": "https://digitalfarma.vtexcommercestable.com.br/cuidado-personal/higiene-femenina/toallas-con-y-sin-alas",
+                        "url": "/cuidado-personal/higiene-femenina/toallas-con-y-sin-alas",
                         "children": [],
                         "Title": "Toallas con y sin alas",
                         "MetaTagDescription": null
@@ -633,7 +633,7 @@
                         "id": 70661,
                         "name": "Toallas con y sin alas",
                         "hasChildren": false,
-                        "url": "https://digitalfarma.vtexcommercestable.com.br/cuidado-personal/higiene-femenina/toallas-con-y-sin-alas",
+                        "url": "/cuidado-personal/higiene-femenina/toallas-con-y-sin-alas",
                         "children": [],
                         "Title": "Toallas con y sin alas",
                         "MetaTagDescription": null
@@ -646,7 +646,7 @@
                 "id": 88,
                 "name": "Accesorios de belleza",
                 "hasChildren": false,
-                "url": "https://digitalfarma.vtexcommercestable.com.br/cuidado-personal/accesorios-de-belleza",
+                "url": "/cuidado-personal/accesorios-de-belleza",
                 "children": [],
                 "Title": "Accesorios de belleza",
                 "MetaTagDescription": "Accesorios de belleza"
@@ -655,7 +655,7 @@
                 "id": 18443,
                 "name": "Mujer",
                 "hasChildren": false,
-                "url": "https://digitalfarma.vtexcommercestable.com.br/cuidado-personal/mujer",
+                "url": "/cuidado-personal/mujer",
                 "children": [],
                 "Title": "Mujer",
                 "MetaTagDescription": ""
@@ -664,13 +664,13 @@
                 "id": 18472,
                 "name": "Complemento de Afeitar",
                 "hasChildren": true,
-                "url": "https://digitalfarma.vtexcommercestable.com.br/cuidado-personal/complemento-de-afeitar",
+                "url": "/cuidado-personal/complemento-de-afeitar",
                 "children": [
                     {
                         "id": 70662,
                         "name": "Hombre",
                         "hasChildren": false,
-                        "url": "https://digitalfarma.vtexcommercestable.com.br/cuidado-personal/complemento-de-afeitar/hombre",
+                        "url": "/cuidado-personal/complemento-de-afeitar/hombre",
                         "children": [],
                         "Title": "Hombre",
                         "MetaTagDescription": ""
@@ -679,7 +679,7 @@
                         "id": 70665,
                         "name": "Mujer",
                         "hasChildren": false,
-                        "url": "https://digitalfarma.vtexcommercestable.com.br/cuidado-personal/complemento-de-afeitar/mujer",
+                        "url": "/cuidado-personal/complemento-de-afeitar/mujer",
                         "children": [],
                         "Title": "Mujer",
                         "MetaTagDescription": ""
@@ -692,13 +692,13 @@
                 "id": 18473,
                 "name": "Desodorantes",
                 "hasChildren": true,
-                "url": "https://digitalfarma.vtexcommercestable.com.br/cuidado-personal/desodorantes",
+                "url": "/cuidado-personal/desodorantes",
                 "children": [
                     {
                         "id": 70663,
                         "name": "Mujer",
                         "hasChildren": false,
-                        "url": "https://digitalfarma.vtexcommercestable.com.br/cuidado-personal/desodorantes/mujer",
+                        "url": "/cuidado-personal/desodorantes/mujer",
                         "children": [],
                         "Title": "Mujer",
                         "MetaTagDescription": ""
@@ -707,7 +707,7 @@
                         "id": 70666,
                         "name": "Hombre",
                         "hasChildren": false,
-                        "url": "https://digitalfarma.vtexcommercestable.com.br/cuidado-personal/desodorantes/hombre",
+                        "url": "/cuidado-personal/desodorantes/hombre",
                         "children": [],
                         "Title": "Hombre",
                         "MetaTagDescription": ""
@@ -720,13 +720,13 @@
                 "id": 18474,
                 "name": "Máquinas Descartables",
                 "hasChildren": true,
-                "url": "https://digitalfarma.vtexcommercestable.com.br/cuidado-personal/maquinas-descartables",
+                "url": "/cuidado-personal/maquinas-descartables",
                 "children": [
                     {
                         "id": 70668,
                         "name": "Hombre",
                         "hasChildren": false,
-                        "url": "https://digitalfarma.vtexcommercestable.com.br/cuidado-personal/maquinas-descartables/hombre",
+                        "url": "/cuidado-personal/maquinas-descartables/hombre",
                         "children": [],
                         "Title": "Hombre",
                         "MetaTagDescription": null
@@ -743,13 +743,13 @@
         "id": 25,
         "name": "Cuidado de la Salud",
         "hasChildren": true,
-        "url": "https://digitalfarma.vtexcommercestable.com.br/cuidado-de-la-salud",
+        "url": "/cuidado-de-la-salud",
         "children": [
             {
                 "id": 38,
                 "name": "Pediculosis",
                 "hasChildren": false,
-                "url": "https://digitalfarma.vtexcommercestable.com.br/cuidado-de-la-salud/pediculosis",
+                "url": "/cuidado-de-la-salud/pediculosis",
                 "children": [],
                 "Title": "Pediculosis",
                 "MetaTagDescription": "Pediculosis"
@@ -758,7 +758,7 @@
                 "id": 39,
                 "name": "Ortopedia",
                 "hasChildren": false,
-                "url": "https://digitalfarma.vtexcommercestable.com.br/cuidado-de-la-salud/ortopedia",
+                "url": "/cuidado-de-la-salud/ortopedia",
                 "children": [],
                 "Title": "Ortopedia",
                 "MetaTagDescription": "Ortopedia"
@@ -767,7 +767,7 @@
                 "id": 41,
                 "name": "Primeros Auxilios",
                 "hasChildren": false,
-                "url": "https://digitalfarma.vtexcommercestable.com.br/cuidado-de-la-salud/primeros-auxilios",
+                "url": "/cuidado-de-la-salud/primeros-auxilios",
                 "children": [],
                 "Title": "Primeros Auxilios",
                 "MetaTagDescription": "Primeros Auxilios"
@@ -776,7 +776,7 @@
                 "id": 42,
                 "name": "Planificacion Familiar",
                 "hasChildren": false,
-                "url": "https://digitalfarma.vtexcommercestable.com.br/cuidado-de-la-salud/planificacion-familiar",
+                "url": "/cuidado-de-la-salud/planificacion-familiar",
                 "children": [],
                 "Title": "Planificacion Familiar",
                 "MetaTagDescription": "Planificacion Familiar"
@@ -785,7 +785,7 @@
                 "id": 43,
                 "name": "Diagnóstico y Monitoreo",
                 "hasChildren": false,
-                "url": "https://digitalfarma.vtexcommercestable.com.br/cuidado-de-la-salud/diagnostico-y-monitoreo",
+                "url": "/cuidado-de-la-salud/diagnostico-y-monitoreo",
                 "children": [],
                 "Title": "Diagnóstico y Monitoreo",
                 "MetaTagDescription": "Diagnóstico y Monitoreo"
@@ -794,7 +794,7 @@
                 "id": 52,
                 "name": "Bienestar Sexual",
                 "hasChildren": false,
-                "url": "https://digitalfarma.vtexcommercestable.com.br/cuidado-de-la-salud/bienestar-sexual",
+                "url": "/cuidado-de-la-salud/bienestar-sexual",
                 "children": [],
                 "Title": "Bienestar Sexual",
                 "MetaTagDescription": "Bienestar Sexual"
@@ -803,7 +803,7 @@
                 "id": 18442,
                 "name": "Optica",
                 "hasChildren": false,
-                "url": "https://digitalfarma.vtexcommercestable.com.br/cuidado-de-la-salud/optica",
+                "url": "/cuidado-de-la-salud/optica",
                 "children": [],
                 "Title": "Optica",
                 "MetaTagDescription": ""
@@ -816,13 +816,13 @@
         "id": 44,
         "name": "Electro",
         "hasChildren": true,
-        "url": "https://digitalfarma.vtexcommercestable.com.br/electro",
+        "url": "/electro",
         "children": [
             {
                 "id": 45,
                 "name": "Belleza",
                 "hasChildren": false,
-                "url": "https://digitalfarma.vtexcommercestable.com.br/electro/belleza",
+                "url": "/electro/belleza",
                 "children": [],
                 "Title": "Belleza",
                 "MetaTagDescription": "Belleza"
@@ -831,7 +831,7 @@
                 "id": 46,
                 "name": "Salud",
                 "hasChildren": false,
-                "url": "https://digitalfarma.vtexcommercestable.com.br/electro/salud",
+                "url": "/electro/salud",
                 "children": [],
                 "Title": "Salud",
                 "MetaTagDescription": "Salud"
@@ -840,7 +840,7 @@
                 "id": 47,
                 "name": "Bebé",
                 "hasChildren": false,
-                "url": "https://digitalfarma.vtexcommercestable.com.br/electro/bebe",
+                "url": "/electro/bebe",
                 "children": [],
                 "Title": "Bebé",
                 "MetaTagDescription": "Bebé"
@@ -849,7 +849,7 @@
                 "id": 48,
                 "name": "Hogar",
                 "hasChildren": false,
-                "url": "https://digitalfarma.vtexcommercestable.com.br/electro/hogar",
+                "url": "/electro/hogar",
                 "children": [],
                 "Title": "Hogar",
                 "MetaTagDescription": "Hogar"
@@ -862,13 +862,13 @@
         "id": 51,
         "name": "Cuidado Oral",
         "hasChildren": true,
-        "url": "https://digitalfarma.vtexcommercestable.com.br/cuidado-oral",
+        "url": "/cuidado-oral",
         "children": [
             {
                 "id": 61,
                 "name": "Cepillos",
                 "hasChildren": false,
-                "url": "https://digitalfarma.vtexcommercestable.com.br/cuidado-oral/cepillos",
+                "url": "/cuidado-oral/cepillos",
                 "children": [],
                 "Title": "Cepillos",
                 "MetaTagDescription": "Cepillos"
@@ -877,7 +877,7 @@
                 "id": 62,
                 "name": "Cremas dentales",
                 "hasChildren": false,
-                "url": "https://digitalfarma.vtexcommercestable.com.br/cuidado-oral/cremas-dentales",
+                "url": "/cuidado-oral/cremas-dentales",
                 "children": [],
                 "Title": "Cremas dentales",
                 "MetaTagDescription": "Cremas dentales"
@@ -886,7 +886,7 @@
                 "id": 63,
                 "name": "Enjuage bucal",
                 "hasChildren": false,
-                "url": "https://digitalfarma.vtexcommercestable.com.br/cuidado-oral/enjuage-bucal",
+                "url": "/cuidado-oral/enjuage-bucal",
                 "children": [],
                 "Title": "Enjuage bucal",
                 "MetaTagDescription": "Enjuage bucal"
@@ -895,7 +895,7 @@
                 "id": 64,
                 "name": "Adhesivos dentales",
                 "hasChildren": false,
-                "url": "https://digitalfarma.vtexcommercestable.com.br/cuidado-oral/adhesivos-dentales",
+                "url": "/cuidado-oral/adhesivos-dentales",
                 "children": [],
                 "Title": "Adhesivos dentales",
                 "MetaTagDescription": "Adhesivos dentales"
@@ -904,7 +904,7 @@
                 "id": 65,
                 "name": "Ortodoncia",
                 "hasChildren": false,
-                "url": "https://digitalfarma.vtexcommercestable.com.br/cuidado-oral/ortodoncia",
+                "url": "/cuidado-oral/ortodoncia",
                 "children": [],
                 "Title": "Ortodoncia",
                 "MetaTagDescription": "Ortodoncia"
@@ -913,7 +913,7 @@
                 "id": 66,
                 "name": "Accesorios",
                 "hasChildren": false,
-                "url": "https://digitalfarma.vtexcommercestable.com.br/cuidado-oral/accesorios",
+                "url": "/cuidado-oral/accesorios",
                 "children": [],
                 "Title": "Accesorios",
                 "MetaTagDescription": "Accesorios"
@@ -926,13 +926,13 @@
         "id": 97,
         "name": "Limpieza y Hogar",
         "hasChildren": true,
-        "url": "https://digitalfarma.vtexcommercestable.com.br/limpieza-y-hogar",
+        "url": "/limpieza-y-hogar",
         "children": [
             {
                 "id": 98,
                 "name": "Desinfectantes",
                 "hasChildren": false,
-                "url": "https://digitalfarma.vtexcommercestable.com.br/limpieza-y-hogar/desinfectantes",
+                "url": "/limpieza-y-hogar/desinfectantes",
                 "children": [],
                 "Title": "Desinfectantes",
                 "MetaTagDescription": "Desinfectantes"
@@ -941,7 +941,7 @@
                 "id": 99,
                 "name": "Repelentes",
                 "hasChildren": false,
-                "url": "https://digitalfarma.vtexcommercestable.com.br/limpieza-y-hogar/repelentes",
+                "url": "/limpieza-y-hogar/repelentes",
                 "children": [],
                 "Title": "Repelentes",
                 "MetaTagDescription": "Repelentes"
@@ -950,7 +950,7 @@
                 "id": 100,
                 "name": "Cuidado de la Ropa",
                 "hasChildren": false,
-                "url": "https://digitalfarma.vtexcommercestable.com.br/limpieza-y-hogar/cuidado-de-la-ropa",
+                "url": "/limpieza-y-hogar/cuidado-de-la-ropa",
                 "children": [],
                 "Title": "Cuidado de la Ropa",
                 "MetaTagDescription": "Cuidado de la Ropa"
@@ -959,7 +959,7 @@
                 "id": 458237,
                 "name": "Aromatizantes",
                 "hasChildren": false,
-                "url": "https://digitalfarma.vtexcommercestable.com.br/limpieza-y-hogar/aromatizantes",
+                "url": "/limpieza-y-hogar/aromatizantes",
                 "children": [],
                 "Title": "Aromatizantes",
                 "MetaTagDescription": ""
@@ -972,13 +972,13 @@
         "id": 101,
         "name": "Cuidado del adulto",
         "hasChildren": true,
-        "url": "https://digitalfarma.vtexcommercestable.com.br/cuidado-del-adulto",
+        "url": "/cuidado-del-adulto",
         "children": [
             {
                 "id": 102,
                 "name": "Zalea",
                 "hasChildren": false,
-                "url": "https://digitalfarma.vtexcommercestable.com.br/cuidado-del-adulto/zalea",
+                "url": "/cuidado-del-adulto/zalea",
                 "children": [],
                 "Title": "Zalea",
                 "MetaTagDescription": ""
@@ -987,7 +987,7 @@
                 "id": 38841,
                 "name": "Apósitos",
                 "hasChildren": false,
-                "url": "https://digitalfarma.vtexcommercestable.com.br/cuidado-del-adulto/apositos",
+                "url": "/cuidado-del-adulto/apositos",
                 "children": [],
                 "Title": "Apósitos",
                 "MetaTagDescription": ""
@@ -996,7 +996,7 @@
                 "id": 38842,
                 "name": "Pañales",
                 "hasChildren": false,
-                "url": "https://digitalfarma.vtexcommercestable.com.br/cuidado-del-adulto/panales",
+                "url": "/cuidado-del-adulto/panales",
                 "children": [],
                 "Title": "Pañales",
                 "MetaTagDescription": ""
@@ -1005,7 +1005,7 @@
                 "id": 38843,
                 "name": "Ropa Interior",
                 "hasChildren": false,
-                "url": "https://digitalfarma.vtexcommercestable.com.br/cuidado-del-adulto/ropa-interior",
+                "url": "/cuidado-del-adulto/ropa-interior",
                 "children": [],
                 "Title": "Ropa Interior",
                 "MetaTagDescription": ""
@@ -1014,7 +1014,7 @@
                 "id": 38844,
                 "name": "Toallas de limpieza",
                 "hasChildren": false,
-                "url": "https://digitalfarma.vtexcommercestable.com.br/cuidado-del-adulto/toallas-de-limpieza",
+                "url": "/cuidado-del-adulto/toallas-de-limpieza",
                 "children": [],
                 "Title": "Toallas de limpieza",
                 "MetaTagDescription": ""
@@ -1027,13 +1027,13 @@
         "id": 341192,
         "name": "Productos",
         "hasChildren": true,
-        "url": "https://digitalfarma.vtexcommercestable.com.br/productos",
+        "url": "/productos",
         "children": [
             {
                 "id": 458298,
                 "name": "Regaleria",
                 "hasChildren": false,
-                "url": "https://digitalfarma.vtexcommercestable.com.br/productos/regaleria",
+                "url": "/productos/regaleria",
                 "children": [],
                 "Title": "Regaleria",
                 "MetaTagDescription": ""

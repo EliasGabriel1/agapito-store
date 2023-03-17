@@ -5,16 +5,16 @@ function MiniBanners(props) {
             {props.text ? <h3>{props.text}</h3> : ""}
             <div className="container-minibanners">
                 <a href="/busca">
-                    <img alt="" src="https://i.postimg.cc/3xk8mqD0/Group-1208.png"  width="100%"/>
+                    <img alt="" src="https://i.postimg.cc/cJB44xWQ/mulherroupa.png"  width="100%"/>
                 </a>
                 <a href="/busca">
-                    <img alt="" src="https://i.postimg.cc/3xk8mqD0/Group-1208.png"  width="100%"/>
+                    <img alt="" src="https://i.postimg.cc/cJB44xWQ/mulherroupa.png"  width="100%"/>
                 </a>
                 <a href="/busca">
-                    <img alt="" src="https://i.postimg.cc/3xk8mqD0/Group-1208.png"  width="100%"/>
+                    <img alt="" src="https://i.postimg.cc/cJB44xWQ/mulherroupa.png"  width="100%"/>
                 </a>
                 <a href="/busca">
-                    <img alt="" src="https://i.postimg.cc/3xk8mqD0/Group-1208.png"  width="100%"/>
+                    <img alt="" src="https://i.postimg.cc/cJB44xWQ/mulherroupa.png"  width="100%"/>
                 </a>
             </div>
         </div>
