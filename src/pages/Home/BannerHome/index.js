@@ -4,16 +4,16 @@ import { useWindowSize } from "../../../Hooks/useWindowSize";
 function Banner() {
     const window = useWindowSize();
     const imagesdesktop = [
-        "https://i.postimg.cc/8z3nJMpG/Group-1255.png",
+        "https://i.postimg.cc/TYcW9799/Group-1256.png",
         "https://i.postimg.cc/tTZ4bM9H/image-38.png",
         "https://i.postimg.cc/8s819YtT/Group-1254.png",
-        "https://i.postimg.cc/8z3nJMpG/Group-1255.png"
+        "https://i.postimg.cc/TYcW9799/Group-1256.png"
     ];
 
     const imagesmobile = [
-        "https://i.postimg.cc/7ZpmY49Y/Group-1255-1.png",
+        "https://i.postimg.cc/yxHkhc3t/Group-1255.png",
         "https://i.postimg.cc/RZyzGr6b/image-38.png",
-        "https://i.postimg.cc/7ZpmY49Y/Group-1255-1.png",
+        "https://i.postimg.cc/yxHkhc3t/Group-1255.png",
         "https://i.postimg.cc/RZyzGr6b/image-38.png"
     ];
 
