@@ -58,6 +58,7 @@
 
 .desktop .categoria>ul>li:hover .subcategoria {
     display: block;
+    z-index: 100;
 }
 
 /* header {
