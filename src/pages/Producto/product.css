@@ -1,0 +1,33 @@
+
+.ProductContainer {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.ProductsImage {
+    max-width: 29%;
+}
+
+.ProductsDescript>h1 {
+    max-width: 435px;
+    width: 100%;
+}
+
+.ProductsDescript .price {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 22px;
+    color: #000000;
+}
+
+.ProductsDescript .ListPrice {
+    font-family: 'Montserrat';
+    font-style: italic;
+    font-weight: 100;
+    font-size: 14px;
+    line-height: 18px;
+    text-decoration-line: line-through;
+    color: #8A8A8A;
+}

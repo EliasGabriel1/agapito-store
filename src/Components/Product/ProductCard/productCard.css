@@ -1,0 +1,118 @@
+.Card__product-image>img {
+    min-height: 210px;
+    max-height: 210px;
+}
+
+.Card__comprar {
+    margin-top: 10px;
+}
+
+.Card__comprar>button {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 0.04em;
+    color: #0C0C0C;
+}
+
+.Card__product-price,
+.Card__product-info,
+.Card__product-info-link,
+.Card__comprar {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.Card__product-brand {
+    font-family: 'Montserrat';
+    font-style: italic;
+    font-weight: 100;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+    color: #0C0C0C;
+}
+
+.Card__product-name {
+    font-family: 'Montserrat';
+    font-style: italic;
+    font-weight: 100;
+    font-size: 18px;
+    line-height: 16px;
+    text-align: center;
+    color: #8A8A8A;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+}
+
+.Card__product-list-price {
+    font-family: 'Montserrat';
+    font-style: italic;
+    font-weight: 100;
+    font-size: 14px;
+    line-height: 18px;
+    text-decoration-line: line-through;
+    color: #8A8A8A;
+    margin: 8px 0;
+}
+
+.Card__product-best-price {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 22px;
+    color: #000000;
+}
+
+
+.Card__flags>.flag {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 15px;
+    text-align: center;
+    color: #FFFFFF;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    position: absolute;
+}
+
+.Card__flags>.flag:first-child {
+    border-radius: 50%;
+    color: white;
+    background: red;
+    width: fit-content;
+    padding: 5px;
+    right: 0;
+    top: 0;
+}
+
+.Card__flags>.flag:last-child {
+    background-color: #000000;
+    padding: 5px 10px;
+    white-space: nowrap;
+    width: fit-content;
+    left: 0;
+    top: 0;
+}
+
+.item-product {
+    position: relative;
+    max-width: 185px;
+}
+
+.list-products .item-product {
+    max-width: 185.2px;
+}

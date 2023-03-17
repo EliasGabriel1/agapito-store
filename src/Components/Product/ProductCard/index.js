@@ -1,6 +1,7 @@
 import React, { useContext } from "react";
 import { useNavigate } from "react-router-dom";
 import { AppContext } from "../../../Context/AppContext";
+import "./productCard.css";
 
 function ProductCard(props) {
     const { addItemToCart } = useContext(AppContext);

@@ -1,0 +1,26 @@
+.container-minicart {
+    position: relative;
+}
+
+.container-minicart>button>svg,
+.container-minicart>button {
+    cursor: pointer;
+}
+
+.mini-cart {
+    position: absolute;
+    right: -1px;
+    top: 35px;
+    background: white;
+    width: 250px;
+    height: 380px;
+    z-index: 2;
+    padding: 15px;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+    border-radius: 3px;
+}
+
+.mini-cart ul {
+    max-height: 325px;
+    overflow: auto;
+}

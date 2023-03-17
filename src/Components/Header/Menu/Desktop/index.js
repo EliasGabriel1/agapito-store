@@ -1,13 +1,13 @@
-// import Button from "../../../Button";
+import Button from "../../../Button";
 import Categoria from "../Categoria";
 import Subcategoria from "../Subcategoria";
-// import { useNavigate } from "react-router-dom";
+import { useNavigate } from "react-router-dom";
 import Minicart from "../../../MiniCart";
 
 function Menu1(props) {
     var api = props.api;
 
-    // const navigate = useNavigate();
+    const navigate = useNavigate();
     return (
         <div className="desktop">
             <div className="container">
@@ -28,7 +28,7 @@ function Menu1(props) {
                     </ul>
                 </div>
                 <div className="content-product">
-                    {/* <Button onclick={navigate("/Colecao")} text="promoção" class="promocao" /> */}
+                    <Button onclick={()=> navigate("/colecao")} text="promoção" class="promocao" />
                     <Minicart />
                 </div>
             </div>

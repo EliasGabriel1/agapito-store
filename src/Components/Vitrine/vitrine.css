@@ -1,0 +1,44 @@
+.container.vitrine {
+    position: relative;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.handleNext,
+.handlePrev {
+    position: absolute;
+}
+
+.handleNext {
+    right: 16px;
+    top: 50%;
+    transform: translatey(-50%);
+}
+
+.handlePrev {
+    left: 16px;
+    top: 50%;
+    transform: translatey(-50%);
+}
+
+.container-vitrine {
+    display: flex;
+    gap: 10px;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.list-products {
+    display: flex;
+    gap: 60px;
+    justify-content: center;
+}
+
+.product-carousel-container {
+    margin-top: 15px;
+}
+
+.content-product {
+    display: flex;
+    gap: 20px;
+}

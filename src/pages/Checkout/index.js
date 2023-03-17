@@ -1,5 +1,6 @@
 import { useContext, useState } from "react";
 import { AppContext } from "../../Context/AppContext";
+import "./checkout.css";
 
 function Checkout() {
     const { cart, clearCart } = useContext(AppContext);

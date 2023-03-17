@@ -1,6 +1,7 @@
 import React, { useContext, useState } from "react";
 import { AppContext } from "../../Context/AppContext";
 import { useNavigate } from "react-router-dom";
+import "./minicart.css";
 
 const Minicart = () => {
     const { cart } = useContext(AppContext);

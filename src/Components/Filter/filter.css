@@ -1,0 +1,16 @@
+.checkbox {
+    display: none;
+}
+
+@media screen and (min-width: 900px) {
+    .filter {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .filter>div>label,
+    .filter>div {
+        cursor: pointer;
+    }
+}

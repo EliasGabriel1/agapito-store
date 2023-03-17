@@ -1,3 +1,5 @@
+import "./topbar.css";
+
 function index() {
   return (
     <div className="topbar">

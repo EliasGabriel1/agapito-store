@@ -1,0 +1,19 @@
+.container-feed {
+    display: flex;
+    justify-content: space-between;
+}
+
+.container-instafeed .socials {
+    display: flex;
+    justify-content: center;
+    gap: 22px;
+    margin-bottom: 53px;
+}
+
+@media screen and (max-width: 900px) {
+    .container-feed {
+        display: flex;
+        justify-content: space-between;
+        flex-direction: column;
+    }
+}

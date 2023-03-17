@@ -3,6 +3,8 @@ import {useRef, useState, useEffect } from "react";
 import Loading from "../Loading";
 import Logo from "../Logo";
 import Researcher from "./Menu/Researcher";
+import "./header.css"
+
 
 function Menu(props) {
     const headerRef = useRef(null);

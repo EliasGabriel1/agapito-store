@@ -11,7 +11,7 @@ function Buscar() {
   const [error, setError] = useState(null);
 
   useEffect(() => {
-    fetch("./api/Colecao.json", {
+    fetch("./api/colecao.json", {
           headers: {
               Accept: "application/json"
           }

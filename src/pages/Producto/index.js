@@ -5,6 +5,7 @@ import Loading from "../../Components/Loading";
 import Vitrine from "../../Components/Vitrine"
 import Description from "../../Components/Product/Description"
 import Footer from "../../Components/Footer";
+import "./product.css";
 
 function ProductPage(props) {
   const [data, setData] = useState(null);

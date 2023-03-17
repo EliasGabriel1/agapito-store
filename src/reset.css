@@ -1,0 +1,96 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+input:focus-visible {
+    outline-offset: none;
+}
+
+input[type="text" i] {
+    padding: 0;
+}
+
+:focus-visible {
+    outline: none;
+}
+
+::-webkit-scrollbar {
+    width: 4px;
+    height: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background: #d2cfcf;
+    border: 1px solid #787878;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #585858;
+}
+
+.container {
+    max-width: 1280px;
+    margin: 0 auto;
+}
+
+ul,
+li {
+    list-style: none !important;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+button {
+    cursor: pointer;
+    border: none;
+    background-color: transparent;
+}
+
+.is-hidden {
+    display: none;
+}
+
+.justify-center {
+    display: flex;
+    justify-content: center;
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
+
+@media screen and (min-width: 900px) {
+    .d-grid {
+        display: grid;
+        grid-template-columns: 27% 73%;
+    }
+}
+
+@media screen and (max-width: 1280px) {
+
+    body .menu,
+    body .head {
+        padding: 0 16px;
+    }
+}
+
+
+@keyframes slidein {
+    from {
+        position: absolute;
+        right: 100%;
+        width: 100%;
+    }
+
+    to {
+        position: absolute;
+        right: 0%;
+        width: 100%;
+    }
+}

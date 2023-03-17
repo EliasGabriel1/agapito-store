@@ -1,0 +1,37 @@
+.container-minibanners {
+    display: flex;
+    gap: 10px;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.container-banner {
+    position: relative;
+}
+
+@media screen and (max-width: 900px) {
+    .container-centerbanners {
+        display: flex;
+        gap: 15px;
+        justify-content: space-between;
+        flex-direction: column;
+    }
+
+    .container-minibanners {
+        display: grid;
+        grid-template-columns: 2fr;
+    }
+}
+
+@media screen and (min-width: 900px) {
+    .container-centerbanners {
+        display: flex;
+        gap: 55px;
+        justify-content: space-between;
+    }
+
+    .centerbanners {
+        margin-top: 33px;
+        margin-bottom: 66px;
+    }
+}

@@ -7,7 +7,8 @@ import CenterBanners from './CenterBanners';
 import TopBar from "../../Components/TopBar"
 import Vitrine from "../../Components/Vitrine"
 import Loading from "../../Components/Loading";
-import Instafeed from "../../Components/Instafeed"
+import Instafeed from "../../Components/Instafeed";
+import "./home.css";
 
 function Home() {
   const [data, setData] = useState(null);

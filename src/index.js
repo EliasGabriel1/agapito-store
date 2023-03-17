@@ -7,6 +7,7 @@ import Colecao from "./pages/Colecao";
 import Checkout from "./pages/Checkout";
 import ProductPage from "./pages/Producto/index";
 import "./geral.css";
+import "./reset.css";
 import AppProvider from "./Context/AppContext";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
@@ -26,19 +27,7 @@ ReactDOM.createRoot(document.getElementById("root")).render(
             />} />
         <Route path="Busca" element={<Busca />} />
         <Route path="checkout" element={<Checkout />} />
-        <Route path="Colecao" element={<Colecao />} />
-        {/* <Route
-          path="/Producto/:id"
-          render={({ match }) => (
-            <ProductPage
-              id={match.params.id}
-              name="Product Name"
-              image="https://example.com/product.jpg"
-              description="Product Description"
-              price="$10.00"
-            />
-          )}
-        /> */}
+        <Route path="colecao" element={<Colecao />} />
       </Routes>
     </AppProvider>
   </BrowserRouter>

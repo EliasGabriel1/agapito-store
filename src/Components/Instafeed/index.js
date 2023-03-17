@@ -5,6 +5,9 @@ import Linkedin from "./Linkedin";
 import Youtube from "./Youtube";
 import Whatsapp from "./Whatsapp";
 import Spotify from "./Spotify";
+import "./instafeed.css"
+
+
 
 function Instafeed(props) {
     return (

@@ -1,6 +1,7 @@
 import ProductCard from "../Product/ProductCard";
 import React, { useState, useEffect } from "react";
 import { useWindowSize } from "../../Hooks/useWindowSize";
+import "./vitrine.css"
 
 function Vitrine(props) {
 

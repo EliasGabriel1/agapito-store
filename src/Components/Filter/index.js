@@ -1,5 +1,6 @@
 import { useState } from 'react';
-import ProductCard from "../Product/ProductCard"
+import ProductCard from "../Product/ProductCard";
+import "./filter.css";
 
 const Filter = (props) => {
   const [searchTerm, setSearchTerm] = useState("");
