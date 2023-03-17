@@ -4,7 +4,7 @@ import Loading from "../../Components/Loading";
 import Filter from "../../Components/Filter";
 import Footer from "../../Components/Footer";
 
-function Buscar() {
+function Colecao() {
 
   const [data, setData] = useState(null);
   const [loading, setLoading] = useState(true);
@@ -47,4 +47,4 @@ function Buscar() {
   return <></>
 }
 
-export default Buscar;
+export default Colecao;
