@@ -32,7 +32,7 @@ const Minicart = () => {
 
     return (
         <div className="container-minicart">
-            <button onClick={handleToggleCart}>
+            <button className="container-minicart-button" onClick={handleToggleCart}>
                 <MiniCartSvg />
             </button>
             {isCartVisible && (
